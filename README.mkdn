@@ -10,9 +10,12 @@ git-core gnupg flex bison gperf libsdl1.2-dev libesd0-dev libwxgtk2.6-dev squash
 
 For 64-bit only systems: 
 
-g++-multilib lib32z1-dev lib32ncurses5-dev lib32readline5-dev gcc-4.3-multilib g++-4.3-multilib 
-NOTE: gcc-4.3-multilib g++-4.3-multilib is no longer available for Ubuntu 11.04 64-bit, but should still build without issue. 
-NOTE: On Ubuntu 10.10, and variants, you need to enable the parter repository to install sun-java6-jdk: 
+g++-multilib lib32z1-dev lib32ncurses5-dev lib32readline5-dev gcc-4.3-multilib g++-4.3-multilib
+ 
+NOTE: gcc-4.3-multilib g++-4.3-multilib is no longer available for Ubuntu 11.04 64-bit, but should still build without issue.
+ 
+NOTE: On Ubuntu 10.10, and variants, you need to enable the parter repository to install sun-java6-jdk:
+ 
 add-apt-repository "deb http://archive.canonical.com/ maverick partner" 
 
 Create the Directories
@@ -21,7 +24,9 @@ Create the Directories
 You will need to set up some directories in your build environment. 
 
 To create them: 
+
 mkdir -p ~/bin 
+
 mkdir -p ~/CM9
  
 Install the Repository
