@@ -51,7 +51,7 @@ repo sync
 
 Download RomManager which is needed by the build: 
 
-~/CM9/system/vendor/cyanogen/get-rommanager 
+~/CM9/vendor/cyanogen/get-rommanager 
 
 Check for updates
 -----------------
