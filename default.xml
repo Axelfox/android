@@ -225,7 +225,6 @@
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" />
-  <project path="packages/apps/UsbMassStorage" name="Swift-Team/UsbMassStorage" revision="master" />
   <project path="packages/apps/LedNotifications" name="Swift-Team/LedNotifications" revision="master" />
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" />
